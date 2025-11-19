@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "react-router-dom": "^7.9.5",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
